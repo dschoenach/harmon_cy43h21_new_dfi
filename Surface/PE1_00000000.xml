@@ -1,0 +1,3896 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>1h Precipitation</VAR>
+<UNIT>mm/1h</UNIT>
+<PERIOD>20201204-20201212</PERIOD>
+ <STATION>
+ <MEAN_OBS>   6.45962730E-02 </MEAN_OBS>
+ <STDV_OBS>  0.102426961     </STDV_OBS>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>   2.00321265E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.207769245     </BIAS>
+ <RMSE>  0.264316022     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         483 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.209475800     </BIAS>
+ <RMSE>  0.253986359     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.32931729E-02 </MEAN_OBS>
+ <STDV_OBS>  0.174791843     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   2.56118644E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.321685851     </BIAS>
+ <RMSE>  0.181676731     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.184477568     </BIAS>
+ <RMSE>  0.323791325     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.27545071E-02 </MEAN_OBS>
+ <STDV_OBS>   6.33920580E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   2.73096208E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   6.61841407E-02 </BIAS>
+ <RMSE>  0.594904006     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.35295606E-02 </BIAS>
+ <RMSE>  0.638431549     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.74193604E-02 </MEAN_OBS>
+ <STDV_OBS>  0.126957878     </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>   6.20870329E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.125654548     </BIAS>
+ <RMSE>  0.551053524     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.107532367     </BIAS>
+ <RMSE>  0.539637864     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.18362162E-02 </MEAN_OBS>
+ <STDV_OBS>  0.179528967     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.124112889     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.185670614     </BIAS>
+ <RMSE>  0.549371183     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.174486011     </BIAS>
+ <RMSE>  0.544790387     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.49494806E-02 </MEAN_OBS>
+ <STDV_OBS>  0.148392349     </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   9.80324671E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.121575736     </BIAS>
+ <RMSE>  0.759076893     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.105920985     </BIAS>
+ <RMSE>  0.752714992     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.94331974E-02 </MEAN_OBS>
+ <STDV_OBS>  0.132881477     </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         494 </NUM>
+ <MEAN>   9.96358916E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.151051819     </BIAS>
+ <RMSE>  0.494029790     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         494 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.134491727     </BIAS>
+ <RMSE>  0.502531171     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.08434305E-02 </MEAN_OBS>
+ <STDV_OBS>  0.143285647     </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.104040034     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.146546990     </BIAS>
+ <RMSE>  0.582136631     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.126538247     </BIAS>
+ <RMSE>  0.553431213     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.202702925     </MEAN_OBS>
+ <STDV_OBS>  0.190669343     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>  0.255168259     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.229581550     </BIAS>
+ <RMSE>  0.241414487     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         111 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.210069969     </BIAS>
+ <RMSE>  0.225041971     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.237651810     </MEAN_OBS>
+ <STDV_OBS>  0.271396101     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         247 </NUM>
+ <MEAN>  0.294198006     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.294048160     </BIAS>
+ <RMSE>  0.526565552     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         247 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.268442452     </BIAS>
+ <RMSE>  0.525379717     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.194578186     </MEAN_OBS>
+ <STDV_OBS>  0.261351109     </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.270568699     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.253646016     </BIAS>
+ <RMSE>  0.660314262     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.250803262     </BIAS>
+ <RMSE>  0.636876464     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.07784420E-02 </MEAN_OBS>
+ <STDV_OBS>   6.73982501E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   1.33062415E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.112330005     </BIAS>
+ <RMSE>  0.301980168     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.61826912E-02 </BIAS>
+ <RMSE>  0.297173768     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.79798044E-02 </MEAN_OBS>
+ <STDV_OBS>   8.64486098E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   5.67101948E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.103500709     </BIAS>
+ <RMSE>  0.458634257     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.22950155E-02 </BIAS>
+ <RMSE>  0.443301529     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.60878851E-02 </MEAN_OBS>
+ <STDV_OBS>  0.131340817     </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.104933679     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.147877276     </BIAS>
+ <RMSE>  0.418465704     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.122680053     </BIAS>
+ <RMSE>  0.458326489     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.00599030E-02 </MEAN_OBS>
+ <STDV_OBS>  0.302134514     </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.180196986     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.264142334     </BIAS>
+ <RMSE>  0.326078057     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.291453362     </BIAS>
+ <RMSE>  0.307460725     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.131000027     </MEAN_OBS>
+ <STDV_OBS>  0.213747293     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         500 </NUM>
+ <MEAN>  0.152876735     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.292026341     </BIAS>
+ <RMSE>  0.270448267     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         500 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.276700407     </BIAS>
+ <RMSE>  0.260890126     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.09237137E-02 </MEAN_OBS>
+ <STDV_OBS>  0.257092178     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.160562962     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.218989104     </BIAS>
+ <RMSE>  0.518128633     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.219383508     </BIAS>
+ <RMSE>  0.526838422     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.85858570E-02 </MEAN_OBS>
+ <STDV_OBS>   9.32765901E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   5.69726527E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.101049744     </BIAS>
+ <RMSE>  0.385875851     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.73592421E-02 </BIAS>
+ <RMSE>  0.378082871     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.52822766E-02 </MEAN_OBS>
+ <STDV_OBS>  0.160952225     </STDV_OBS>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>  0.101579480     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.154276043     </BIAS>
+ <RMSE>  0.540823162     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.136050403     </BIAS>
+ <RMSE>  0.582517982     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.08617391E-02 </MEAN_OBS>
+ <STDV_OBS>  0.170271859     </STDV_OBS>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         499 </NUM>
+ <MEAN>  0.107475623     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.194078326     </BIAS>
+ <RMSE>  0.387830853     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         499 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.165455267     </BIAS>
+ <RMSE>  0.358571827     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.52294713E-02 </MEAN_OBS>
+ <STDV_OBS>  0.239658460     </STDV_OBS>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.176003322     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.274701536     </BIAS>
+ <RMSE>  0.331282675     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.251870304     </BIAS>
+ <RMSE>  0.335973144     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.97586036E-02 </MEAN_OBS>
+ <STDV_OBS>  0.180803612     </STDV_OBS>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         497 </NUM>
+ <MEAN>  0.117243305     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.215665147     </BIAS>
+ <RMSE>  0.390681446     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         497 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.175823241     </BIAS>
+ <RMSE>  0.412083179     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.55555779E-02 </MEAN_OBS>
+ <STDV_OBS>  0.231695339     </STDV_OBS>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>  0.147526458     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.254865408     </BIAS>
+ <RMSE>  0.353659511     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.225179598     </BIAS>
+ <RMSE>  0.357347429     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.22222614E-02 </MEAN_OBS>
+ <STDV_OBS>  0.125880122     </STDV_OBS>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   5.14940806E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.131750107     </BIAS>
+ <RMSE>  0.685483694     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.144619569     </BIAS>
+ <RMSE>  0.594944060     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.82434419E-02 </MEAN_OBS>
+ <STDV_OBS>  0.196265683     </STDV_OBS>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   9.35417339E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.160922915     </BIAS>
+ <RMSE>  0.742953718     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.155568630     </BIAS>
+ <RMSE>  0.749838591     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.13131432E-02 </MEAN_OBS>
+ <STDV_OBS>  0.207664400     </STDV_OBS>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>  0.101973638     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.175854385     </BIAS>
+ <RMSE>  0.730542064     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.151296869     </BIAS>
+ <RMSE>  0.747589529     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.103680901     </MEAN_OBS>
+ <STDV_OBS>  0.296742857     </STDV_OBS>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.214757964     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.278572798     </BIAS>
+ <RMSE>  0.587551355     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.258228570     </BIAS>
+ <RMSE>  0.550157607     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.23353298E-02 </MEAN_OBS>
+ <STDV_OBS>  0.241354927     </STDV_OBS>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.108019166     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.216888547     </BIAS>
+ <RMSE>  0.462839514     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.217592955     </BIAS>
+ <RMSE>  0.431663871     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.148453623     </MEAN_OBS>
+ <STDV_OBS>  0.252988815     </STDV_OBS>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>          97 </NUM>
+ <MEAN>  0.410988957     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.321186423     </BIAS>
+ <RMSE>  0.379489452     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>          97 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.262231112     </BIAS>
+ <RMSE>  0.412591666     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.107619084     </MEAN_OBS>
+ <STDV_OBS>   8.79884437E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         105 </NUM>
+ <MEAN>   8.03794861E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.180221021     </BIAS>
+ <RMSE>  0.500050783     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         105 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.197481290     </BIAS>
+ <RMSE>  0.231358662     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.09237361E-02 </MEAN_OBS>
+ <STDV_OBS>  0.182682320     </STDV_OBS>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   9.95709151E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.196797982     </BIAS>
+ <RMSE>  0.585747898     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.222231328     </BIAS>
+ <RMSE>  0.439591885     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.71257700E-02 </MEAN_OBS>
+ <STDV_OBS>   8.97960663E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   5.44726066E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   9.58787575E-02 </BIAS>
+ <RMSE>  0.553070545     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.102757797     </BIAS>
+ <RMSE>  0.457461536     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.23153788E-02 </MEAN_OBS>
+ <STDV_OBS>   9.27450582E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   3.72634605E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.109048910     </BIAS>
+ <RMSE>  0.725105703     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.114327140     </BIAS>
+ <RMSE>  0.701667905     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150549456     </MEAN_OBS>
+ <STDV_OBS>  0.301516205     </STDV_OBS>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>          91 </NUM>
+ <MEAN>  0.227225676     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.340970039     </BIAS>
+ <RMSE>  0.638917565     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>          91 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.228389367     </BIAS>
+ <RMSE>  0.648052096     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.37804893E-02 </MEAN_OBS>
+ <STDV_OBS>  0.176123038     </STDV_OBS>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   7.68710300E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.250728667     </BIAS>
+ <RMSE>   6.09576404E-02 </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.200143084     </BIAS>
+ <RMSE>   7.37089664E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.70541292E-02 </MEAN_OBS>
+ <STDV_OBS>  0.176614732     </STDV_OBS>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         499 </NUM>
+ <MEAN>   7.56771490E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.198457792     </BIAS>
+ <RMSE>  0.388085216     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         499 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.165699646     </BIAS>
+ <RMSE>  0.411520064     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.33532954E-02 </MEAN_OBS>
+ <STDV_OBS>  0.138671800     </STDV_OBS>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   5.95878288E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.217429966     </BIAS>
+ <RMSE>   5.15495241E-02 </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.165025160     </BIAS>
+ <RMSE>   8.38580802E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.247619107     </MEAN_OBS>
+ <STDV_OBS>  0.191042304     </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         105 </NUM>
+ <MEAN>  0.189611048     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.289685607     </BIAS>
+ <RMSE>  0.503699064     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         105 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.273879290     </BIAS>
+ <RMSE>  0.555434048     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.11646664E-02 </MEAN_OBS>
+ <STDV_OBS>  0.110218868     </STDV_OBS>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   5.14413044E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.122104898     </BIAS>
+ <RMSE>  0.604787409     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.107472450     </BIAS>
+ <RMSE>  0.644956827     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.60678893E-02 </MEAN_OBS>
+ <STDV_OBS>  0.146207064     </STDV_OBS>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   6.44969419E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.137339458     </BIAS>
+ <RMSE>  0.688510001     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.131138876     </BIAS>
+ <RMSE>  0.686702669     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.53293456E-02 </MEAN_OBS>
+ <STDV_OBS>  0.236529738     </STDV_OBS>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.149495140     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.244810343     </BIAS>
+ <RMSE>  0.539086521     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.199548230     </BIAS>
+ <RMSE>  0.554151297     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.85029966E-02 </MEAN_OBS>
+ <STDV_OBS>  0.261770457     </STDV_OBS>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.134888217     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.234005660     </BIAS>
+ <RMSE>  0.492485046     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.232539058     </BIAS>
+ <RMSE>  0.466292500     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.45109941E-02 </MEAN_OBS>
+ <STDV_OBS>  0.230683282     </STDV_OBS>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.126392856     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.225220442     </BIAS>
+ <RMSE>  0.559731781     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.196157217     </BIAS>
+ <RMSE>  0.556061327     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.21357325E-02 </MEAN_OBS>
+ <STDV_OBS>  0.181498453     </STDV_OBS>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   8.18275660E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.207408592     </BIAS>
+ <RMSE>  0.359325320     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.169583336     </BIAS>
+ <RMSE>  0.396191925     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.124335319     </MEAN_OBS>
+ <STDV_OBS>  0.313788444     </STDV_OBS>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.188444167     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.267722636     </BIAS>
+ <RMSE>  0.612216890     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.282938123     </BIAS>
+ <RMSE>  0.542357862     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.76767942E-02 </MEAN_OBS>
+ <STDV_OBS>  0.215356618     </STDV_OBS>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>  0.109531626     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.222486019     </BIAS>
+ <RMSE>  0.541863739     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.188166007     </BIAS>
+ <RMSE>  0.532089055     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.229914650     </MEAN_OBS>
+ <STDV_OBS>  0.247568667     </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>  0.175696164     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.201409951     </BIAS>
+ <RMSE>  0.659321189     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         117 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.203911111     </BIAS>
+ <RMSE>  0.582779288     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.256923109     </MEAN_OBS>
+ <STDV_OBS>  0.238199487     </STDV_OBS>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>          65 </NUM>
+ <MEAN>  0.242199913     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.294731528     </BIAS>
+ <RMSE>  0.358624130     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>          65 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.269044816     </BIAS>
+ <RMSE>  0.234230652     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.33333276E-02 </MEAN_OBS>
+ <STDV_OBS>  0.141490594     </STDV_OBS>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   8.82646367E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.207366496     </BIAS>
+ <RMSE>  0.173133954     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.152667835     </BIAS>
+ <RMSE>  0.188270971     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.18562631E-03 </MEAN_OBS>
+ <STDV_OBS>  0.127520353     </STDV_OBS>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   5.12411222E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.171184778     </BIAS>
+ <RMSE>  0.280321985     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.121390700     </BIAS>
+ <RMSE>  0.319044054     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.03193869E-02 </MEAN_OBS>
+ <STDV_OBS>  0.166906372     </STDV_OBS>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   8.19749385E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.155706748     </BIAS>
+ <RMSE>  0.606903732     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.119917661     </BIAS>
+ <RMSE>  0.701244593     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.97979845E-02 </MEAN_OBS>
+ <STDV_OBS>   7.62820244E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   4.75132875E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.133294299     </BIAS>
+ <RMSE>  0.129638329     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.90408754E-02 </BIAS>
+ <RMSE>  0.176174611     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.73054238E-02 </MEAN_OBS>
+ <STDV_OBS>  0.179330602     </STDV_OBS>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.100613944     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.187300980     </BIAS>
+ <RMSE>  0.280539006     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.180917546     </BIAS>
+ <RMSE>  0.341571987     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.411111295     </MEAN_OBS>
+ <STDV_OBS>  0.297871351     </STDV_OBS>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.295111090     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.314999253     </BIAS>
+ <RMSE>  0.584090173     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.311776429     </BIAS>
+ <RMSE>  0.551605999     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.23353149E-02 </MEAN_OBS>
+ <STDV_OBS>   7.56897703E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   5.61625808E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.169850528     </BIAS>
+ <RMSE>  0.218818203     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.104074605     </BIAS>
+ <RMSE>  0.345231324     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.28343853E-02 </MEAN_OBS>
+ <STDV_OBS>  0.137045696     </STDV_OBS>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   8.64775032E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.198330820     </BIAS>
+ <RMSE>  0.561756909     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.214752808     </BIAS>
+ <RMSE>  0.450804263     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.64870350E-02 </MEAN_OBS>
+ <STDV_OBS>   9.56224799E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   6.19712621E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.125220343     </BIAS>
+ <RMSE>  0.581154466     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135372967     </BIAS>
+ <RMSE>  0.464023888     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.269918889     </MEAN_OBS>
+ <STDV_OBS>  0.160845041     </STDV_OBS>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>  0.155518562     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.169277757     </BIAS>
+ <RMSE>  0.725209534     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.184877247     </BIAS>
+ <RMSE>  0.605612099     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.60878441E-02 </MEAN_OBS>
+ <STDV_OBS>  0.152512610     </STDV_OBS>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   8.63738880E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.185285777     </BIAS>
+ <RMSE>  0.682091534     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.168081313     </BIAS>
+ <RMSE>  0.761642456     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.46586493E-02 </MEAN_OBS>
+ <STDV_OBS>  0.101453483     </STDV_OBS>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   5.25333062E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.137502700     </BIAS>
+ <RMSE>  0.462940484     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.155640423     </BIAS>
+ <RMSE>  0.312148511     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.47305611E-02 </MEAN_OBS>
+ <STDV_OBS>  0.149909377     </STDV_OBS>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   9.09199268E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.116431035     </BIAS>
+ <RMSE>  0.737960637     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.125988021     </BIAS>
+ <RMSE>  0.626209021     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.61077876E-02 </MEAN_OBS>
+ <STDV_OBS>  0.189640775     </STDV_OBS>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   6.53266311E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.123867594     </BIAS>
+ <RMSE>  0.766705096     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135052755     </BIAS>
+ <RMSE>  0.728475749     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.98203533E-03 </MEAN_OBS>
+ <STDV_OBS>  0.163411215     </STDV_OBS>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   7.58328512E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.189143673     </BIAS>
+ <RMSE>  0.233007520     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.156017005     </BIAS>
+ <RMSE>  0.294354647     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.85628720E-02 </MEAN_OBS>
+ <STDV_OBS>  0.152038440     </STDV_OBS>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   6.30609989E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.191186354     </BIAS>
+ <RMSE>  0.131442457     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.166826785     </BIAS>
+ <RMSE>  0.184204638     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.65269594E-02 </MEAN_OBS>
+ <STDV_OBS>  0.128264382     </STDV_OBS>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   5.53452596E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.142376155     </BIAS>
+ <RMSE>  0.652936876     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.97763148E-02 </BIAS>
+ <RMSE>  0.794451714     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.19161702E-03 </MEAN_OBS>
+ <STDV_OBS>   8.91067013E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   3.57028916E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.160987973     </BIAS>
+ <RMSE>  -2.78147571E-02 </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.20087323E-02 </BIAS>
+ <RMSE>  -4.94355056E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.79041971E-03 </MEAN_OBS>
+ <STDV_OBS>   8.54681581E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   3.88482809E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.122600399     </BIAS>
+ <RMSE>  0.107918635     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.06860605E-02 </BIAS>
+ <RMSE>  -2.42729522E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.37125824E-02 </MEAN_OBS>
+ <STDV_OBS>  0.186329052     </STDV_OBS>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   8.35639089E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.171399564     </BIAS>
+ <RMSE>  0.665901124     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.131288499     </BIAS>
+ <RMSE>  0.741020203     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.193578094     </MEAN_OBS>
+ <STDV_OBS>  0.170381144     </STDV_OBS>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         109 </NUM>
+ <MEAN>  0.144638926     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.197606176     </BIAS>
+ <RMSE>  0.271380544     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         109 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.171131417     </BIAS>
+ <RMSE>  0.318719953     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.23353335E-02 </MEAN_OBS>
+ <STDV_OBS>  0.115430214     </STDV_OBS>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   5.30487448E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.157072529     </BIAS>
+ <RMSE>  0.448674887     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.143357977     </BIAS>
+ <RMSE>  0.403818130     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.79042158E-02 </MEAN_OBS>
+ <STDV_OBS>  0.111381248     </STDV_OBS>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   5.31284511E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.104253113     </BIAS>
+ <RMSE>  0.679225087     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.81747454E-02 </BIAS>
+ <RMSE>  0.721767187     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.228947535     </MEAN_OBS>
+ <STDV_OBS>  0.128759921     </STDV_OBS>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         114 </NUM>
+ <MEAN>  0.133933678     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.203697681     </BIAS>
+ <RMSE>   1.40613234E-02 </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         114 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.198202774     </BIAS>
+ <RMSE>   9.39517021E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.167924538     </MEAN_OBS>
+ <STDV_OBS>  0.269784391     </STDV_OBS>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.309213638     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.305564672     </BIAS>
+ <RMSE>  0.153260127     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.283808112     </BIAS>
+ <RMSE>   5.43557815E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.37724523E-02 </MEAN_OBS>
+ <STDV_OBS>   7.02022836E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   3.45783941E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   9.64494124E-02 </BIAS>
+ <RMSE>  0.282272577     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.31350759E-02 </BIAS>
+ <RMSE>  0.269571096     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.64529139E-02 </MEAN_OBS>
+ <STDV_OBS>  0.116297200     </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         499 </NUM>
+ <MEAN>   5.60428016E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.139724299     </BIAS>
+ <RMSE>  0.370516002     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         499 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.122265607     </BIAS>
+ <RMSE>  0.382505029     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.55555527E-02 </MEAN_OBS>
+ <STDV_OBS>  0.115155466     </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   4.62860651E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.120843604     </BIAS>
+ <RMSE>  0.557195306     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.108714856     </BIAS>
+ <RMSE>  0.536287546     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.50000041E-02 </MEAN_OBS>
+ <STDV_OBS>  0.143285722     </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>  0.102698669     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.163609207     </BIAS>
+ <RMSE>  0.367716849     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135172799     </BIAS>
+ <RMSE>  0.355169088     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.81250526E-02 </MEAN_OBS>
+ <STDV_OBS>  0.173179209     </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>  0.108819142     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.166165844     </BIAS>
+ <RMSE>  0.582349837     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         480 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.142764062     </BIAS>
+ <RMSE>  0.603714287     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.20858883E-02 </MEAN_OBS>
+ <STDV_OBS>  0.105983309     </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   5.63346818E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.115018435     </BIAS>
+ <RMSE>  0.430238485     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.79491249E-02 </BIAS>
+ <RMSE>  0.425964892     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.64417578E-02 </MEAN_OBS>
+ <STDV_OBS>  0.178293601     </STDV_OBS>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.111658722     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.156846225     </BIAS>
+ <RMSE>  0.653988898     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.141214728     </BIAS>
+ <RMSE>  0.623303771     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.52147701E-02 </MEAN_OBS>
+ <STDV_OBS>  0.159190834     </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.109691963     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.152301624     </BIAS>
+ <RMSE>  0.582204998     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.133910730     </BIAS>
+ <RMSE>  0.560068667     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.10699716E-02 </MEAN_OBS>
+ <STDV_OBS>   8.29688534E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   5.02983108E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   9.41383019E-02 </BIAS>
+ <RMSE>  0.599961281     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.40720555E-02 </BIAS>
+ <RMSE>  0.670516670     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.30487932E-02 </MEAN_OBS>
+ <STDV_OBS>  0.137883335     </STDV_OBS>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.122748129     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.138739988     </BIAS>
+ <RMSE>  0.580942929     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.117133163     </BIAS>
+ <RMSE>  0.582068384     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.57894909E-02 </MEAN_OBS>
+ <STDV_OBS>  0.136345968     </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         494 </NUM>
+ <MEAN>  0.104111418     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.133232042     </BIAS>
+ <RMSE>  0.639918327     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         494 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.113620736     </BIAS>
+ <RMSE>  0.656001806     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.154706120     </MEAN_OBS>
+ <STDV_OBS>  0.184714124     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>  0.195547134     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.240782067     </BIAS>
+ <RMSE>  0.114209399     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.201279804     </BIAS>
+ <RMSE>  0.112954400     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.30539560E-02 </MEAN_OBS>
+ <STDV_OBS>  0.158203095     </STDV_OBS>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.136607140     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.165944099     </BIAS>
+ <RMSE>  0.543400824     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.155268982     </BIAS>
+ <RMSE>  0.504368365     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.54918332E-02 </MEAN_OBS>
+ <STDV_OBS>  0.166146681     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>  0.117348440     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.144911543     </BIAS>
+ <RMSE>  0.653482795     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         488 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.123526432     </BIAS>
+ <RMSE>  0.670378447     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.198529407     </MEAN_OBS>
+ <STDV_OBS>  0.228170812     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         204 </NUM>
+ <MEAN>  0.174279869     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.231424153     </BIAS>
+ <RMSE>  0.662641346     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         204 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.230174243     </BIAS>
+ <RMSE>  0.648780465     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.64634034E-02 </MEAN_OBS>
+ <STDV_OBS>  0.173396170     </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.123333223     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.189374343     </BIAS>
+ <RMSE>  0.458129704     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.169428214     </BIAS>
+ <RMSE>  0.455512434     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.193750203     </MEAN_OBS>
+ <STDV_OBS>  0.307189643     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         128 </NUM>
+ <MEAN>  0.379342616     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.355671167     </BIAS>
+ <RMSE>  0.182808042     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         128 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.306924731     </BIAS>
+ <RMSE>  0.193274498     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.44578487E-02 </MEAN_OBS>
+ <STDV_OBS>  0.205650881     </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.137320802     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.161874831     </BIAS>
+ <RMSE>  0.722454786     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.139752120     </BIAS>
+ <RMSE>  0.742346883     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.40718937E-02 </MEAN_OBS>
+ <STDV_OBS>  0.177222461     </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.124971777     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.164522454     </BIAS>
+ <RMSE>  0.623553514     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.152144536     </BIAS>
+ <RMSE>  0.626863718     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125548854     </MEAN_OBS>
+ <STDV_OBS>  0.262868702     </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.205120623     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.224107280     </BIAS>
+ <RMSE>  0.736975491     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.188517526     </BIAS>
+ <RMSE>  0.796906292     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.45781469E-02 </MEAN_OBS>
+ <STDV_OBS>  0.203515038     </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.181295782     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.188625112     </BIAS>
+ <RMSE>  0.576488316     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.178655550     </BIAS>
+ <RMSE>  0.575033724     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.15226850E-02 </MEAN_OBS>
+ <STDV_OBS>  0.163585573     </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.120164916     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.156792119     </BIAS>
+ <RMSE>  0.590025961     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.136528909     </BIAS>
+ <RMSE>  0.597835064     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.121951252     </MEAN_OBS>
+ <STDV_OBS>  0.227958262     </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>  0.199432597     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.202490896     </BIAS>
+ <RMSE>  0.718925238     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         492 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.181529477     </BIAS>
+ <RMSE>  0.749594748     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.34131145E-02 </MEAN_OBS>
+ <STDV_OBS>  0.238750577     </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.223035425     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.217138499     </BIAS>
+ <RMSE>  0.638486862     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.194369957     </BIAS>
+ <RMSE>  0.622894704     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.26506060E-02 </MEAN_OBS>
+ <STDV_OBS>  0.180979908     </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.162184209     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.160559803     </BIAS>
+ <RMSE>  0.663660944     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.142510355     </BIAS>
+ <RMSE>  0.677452564     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.62874787E-02 </MEAN_OBS>
+ <STDV_OBS>  0.114339799     </STDV_OBS>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.112458758     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.174016893     </BIAS>
+ <RMSE>  0.291650146     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.126882002     </BIAS>
+ <RMSE>  0.346456677     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.02008274E-02 </MEAN_OBS>
+ <STDV_OBS>  0.113948151     </STDV_OBS>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   9.56206769E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.123408757     </BIAS>
+ <RMSE>  0.567071915     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.111185588     </BIAS>
+ <RMSE>  0.559149384     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.81526202E-02 </MEAN_OBS>
+ <STDV_OBS>  0.101148672     </STDV_OBS>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   7.75780529E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.144221097     </BIAS>
+ <RMSE>  0.361952811     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.111419529     </BIAS>
+ <RMSE>  0.457259357     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.83936071E-02 </MEAN_OBS>
+ <STDV_OBS>  0.110478997     </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   9.16462615E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.157471731     </BIAS>
+ <RMSE>  0.371468723     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.132092342     </BIAS>
+ <RMSE>  0.419309020     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.08582699E-02 </MEAN_OBS>
+ <STDV_OBS>  0.126998886     </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.116324224     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.168326989     </BIAS>
+ <RMSE>  0.437209815     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.143230692     </BIAS>
+ <RMSE>  0.519671798     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.16161790E-02 </MEAN_OBS>
+ <STDV_OBS>  0.101329319     </STDV_OBS>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   9.69084874E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.133863866     </BIAS>
+ <RMSE>  0.414779067     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.106110491     </BIAS>
+ <RMSE>  0.439104289     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.15662974E-02 </MEAN_OBS>
+ <STDV_OBS>  0.129241034     </STDV_OBS>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   9.80556607E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.145854324     </BIAS>
+ <RMSE>  0.437754124     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.120750271     </BIAS>
+ <RMSE>  0.454164028     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.08982278E-02 </MEAN_OBS>
+ <STDV_OBS>  0.115536653     </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.106927656     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.146864519     </BIAS>
+ <RMSE>  0.354069024     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.128215551     </BIAS>
+ <RMSE>  0.366898447     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.199598148     </MEAN_OBS>
+ <STDV_OBS>  0.362306386     </STDV_OBS>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.277259320     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.287218362     </BIAS>
+ <RMSE>  0.672749281     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.292066574     </BIAS>
+ <RMSE>  0.652931750     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.83534245E-02 </MEAN_OBS>
+ <STDV_OBS>  0.146370158     </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.119019061     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.158523098     </BIAS>
+ <RMSE>  0.490825623     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.125582248     </BIAS>
+ <RMSE>  0.533445179     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.21642578E-02 </MEAN_OBS>
+ <STDV_OBS>  0.161280721     </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         499 </NUM>
+ <MEAN>  0.160377920     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.179351017     </BIAS>
+ <RMSE>  0.371188432     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         499 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.166425735     </BIAS>
+ <RMSE>  0.356037110     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.124497861     </MEAN_OBS>
+ <STDV_OBS>  0.192336947     </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.188888848     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.231730461     </BIAS>
+ <RMSE>  0.301801801     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.214087531     </BIAS>
+ <RMSE>  0.332545400     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.00598881E-02 </MEAN_OBS>
+ <STDV_OBS>  0.226569712     </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.174347922     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.204594046     </BIAS>
+ <RMSE>  0.627713859     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.177218333     </BIAS>
+ <RMSE>  0.640635133     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.15150982E-02 </MEAN_OBS>
+ <STDV_OBS>  0.188586801     </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>  0.167440936     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.191340789     </BIAS>
+ <RMSE>  0.567024171     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.181938589     </BIAS>
+ <RMSE>  0.515870929     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.93574357E-02 </MEAN_OBS>
+ <STDV_OBS>  0.258278042     </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.180782542     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.229560420     </BIAS>
+ <RMSE>  0.511691153     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.226540715     </BIAS>
+ <RMSE>  0.499482930     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.20523360E-02 </MEAN_OBS>
+ <STDV_OBS>  0.151149914     </STDV_OBS>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         497 </NUM>
+ <MEAN>  0.123005636     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.174631968     </BIAS>
+ <RMSE>  0.369313657     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         497 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.143834904     </BIAS>
+ <RMSE>  0.367614329     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.75100544E-02 </MEAN_OBS>
+ <STDV_OBS>   8.85433778E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   6.28430247E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   9.96920839E-02 </BIAS>
+ <RMSE>  0.377030671     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.83156508E-02 </BIAS>
+ <RMSE>  0.365105838     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.25767335E-02 </MEAN_OBS>
+ <STDV_OBS>  0.264635473     </STDV_OBS>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.172676131     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.182502508     </BIAS>
+ <RMSE>  0.506109118     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.243673608     </BIAS>
+ <RMSE>  0.401120275     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.25050238E-02 </MEAN_OBS>
+ <STDV_OBS>  0.140124053     </STDV_OBS>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         499 </NUM>
+ <MEAN>  0.128880903     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.165925041     </BIAS>
+ <RMSE>  0.371165931     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         499 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.150494114     </BIAS>
+ <RMSE>  0.376249105     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.12375396E-02 </MEAN_OBS>
+ <STDV_OBS>  0.217313662     </STDV_OBS>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.168270946     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.221521795     </BIAS>
+ <RMSE>  0.414363384     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.209516466     </BIAS>
+ <RMSE>  0.405636936     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.05050611E-02 </MEAN_OBS>
+ <STDV_OBS>  0.117159069     </STDV_OBS>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   8.17300975E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.139936194     </BIAS>
+ <RMSE>  0.384251237     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.110069096     </BIAS>
+ <RMSE>  0.449519426     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.04839139E-02 </MEAN_OBS>
+ <STDV_OBS>  0.219342455     </STDV_OBS>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>  0.126157999     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.219393551     </BIAS>
+ <RMSE>  0.465718120     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.209469229     </BIAS>
+ <RMSE>  0.410998076     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.28942570E-02 </MEAN_OBS>
+ <STDV_OBS>  0.183792219     </STDV_OBS>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.101435475     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.201161340     </BIAS>
+ <RMSE>  0.385880768     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.164996132     </BIAS>
+ <RMSE>  0.454690665     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.27345543E-02 </MEAN_OBS>
+ <STDV_OBS>  0.218553185     </STDV_OBS>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>  0.109626070     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.197940528     </BIAS>
+ <RMSE>  0.589047194     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.188435689     </BIAS>
+ <RMSE>  0.514293313     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.61847708E-02 </MEAN_OBS>
+ <STDV_OBS>  0.204931095     </STDV_OBS>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.121028960     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.212892652     </BIAS>
+ <RMSE>  0.535687566     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.193854079     </BIAS>
+ <RMSE>  0.445185155     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.28514364E-02 </MEAN_OBS>
+ <STDV_OBS>  0.239045307     </STDV_OBS>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.147081450     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.257373482     </BIAS>
+ <RMSE>  0.346169263     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.240771323     </BIAS>
+ <RMSE>  0.333303362     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.80572805E-02 </MEAN_OBS>
+ <STDV_OBS>  0.236864150     </STDV_OBS>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>  0.146788821     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.248085544     </BIAS>
+ <RMSE>  0.399642348     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         489 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.230748668     </BIAS>
+ <RMSE>  0.364606380     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.138888836     </MEAN_OBS>
+ <STDV_OBS>  0.229635298     </STDV_OBS>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>  0.175035760     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.290423304     </BIAS>
+ <RMSE>  0.402597427     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         486 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.247796252     </BIAS>
+ <RMSE>  0.435137510     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.136619776     </MEAN_OBS>
+ <STDV_OBS>  0.236939400     </STDV_OBS>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         497 </NUM>
+ <MEAN>  0.165890396     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.294127196     </BIAS>
+ <RMSE>  0.270478994     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         497 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.294720352     </BIAS>
+ <RMSE>  0.222719818     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.22892135E-02 </MEAN_OBS>
+ <STDV_OBS>  0.276020885     </STDV_OBS>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.155686811     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.260238558     </BIAS>
+ <RMSE>  0.229535177     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.287058353     </BIAS>
+ <RMSE>  0.173384055     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.95180939E-02 </MEAN_OBS>
+ <STDV_OBS>  0.238661095     </STDV_OBS>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>  0.132033467     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.263969421     </BIAS>
+ <RMSE>  0.250177890     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.230987623     </BIAS>
+ <RMSE>  0.251832038     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.69230718E-02 </MEAN_OBS>
+ <STDV_OBS>  0.278534025     </STDV_OBS>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         390 </NUM>
+ <MEAN>  0.168404862     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.317576557     </BIAS>
+ <RMSE>   7.06117973E-02 </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         390 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.279969454     </BIAS>
+ <RMSE>   5.34671582E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.81818856E-02 </MEAN_OBS>
+ <STDV_OBS>  0.204682425     </STDV_OBS>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>  0.171370611     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.230308473     </BIAS>
+ <RMSE>  0.321004570     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.203487992     </BIAS>
+ <RMSE>  0.299965292     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.83468431E-02 </MEAN_OBS>
+ <STDV_OBS>  0.261595160     </STDV_OBS>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>  0.176679522     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.217702106     </BIAS>
+ <RMSE>  0.435903132     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         496 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.249534726     </BIAS>
+ <RMSE>  0.367552042     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.279220968     </MEAN_OBS>
+ <STDV_OBS>  0.259362698     </STDV_OBS>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>  0.200906917     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.236230001     </BIAS>
+ <RMSE>  0.701124370     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.219985202     </BIAS>
+ <RMSE>  0.684923053     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.85542288E-02 </MEAN_OBS>
+ <STDV_OBS>  0.131258562     </STDV_OBS>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   6.65578619E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.141544104     </BIAS>
+ <RMSE>  0.483790606     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.146151915     </BIAS>
+ <RMSE>  0.463473767     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.75903973E-02 </MEAN_OBS>
+ <STDV_OBS>  0.109404840     </STDV_OBS>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   5.56686297E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.159142479     </BIAS>
+ <RMSE>  0.575350881     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.157386586     </BIAS>
+ <RMSE>  0.558579385     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.153535396     </MEAN_OBS>
+ <STDV_OBS>  0.248883128     </STDV_OBS>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>          99 </NUM>
+ <MEAN>  0.170715943     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.215493113     </BIAS>
+ <RMSE>  0.842523634     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>          99 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.262854993     </BIAS>
+ <RMSE>  0.731351137     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.60605687E-02 </MEAN_OBS>
+ <STDV_OBS>  0.212474912     </STDV_OBS>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>  0.180775642     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.226637423     </BIAS>
+ <RMSE>  0.405502111     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         495 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.196103901     </BIAS>
+ <RMSE>  0.419213831     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.14770725E-02 </MEAN_OBS>
+ <STDV_OBS>  0.142496511     </STDV_OBS>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   6.93157911E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.154744685     </BIAS>
+ <RMSE>  0.647668183     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.169738054     </BIAS>
+ <RMSE>  0.555916309     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.07229217E-02 </MEAN_OBS>
+ <STDV_OBS>  0.130268499     </STDV_OBS>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   7.42702186E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.148248360     </BIAS>
+ <RMSE>  0.431167930     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.123235382     </BIAS>
+ <RMSE>  0.431306005     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.41767387E-02 </MEAN_OBS>
+ <STDV_OBS>  0.147620544     </STDV_OBS>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   7.24011734E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.127961189     </BIAS>
+ <RMSE>  0.696560144     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.132185206     </BIAS>
+ <RMSE>  0.605258405     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.67465115E-02 </MEAN_OBS>
+ <STDV_OBS>  0.142757654     </STDV_OBS>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   6.65704682E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.109003231     </BIAS>
+ <RMSE>  0.700996578     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         501 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.92099270E-02 </BIAS>
+ <RMSE>  0.720281601     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.73895669E-02 </MEAN_OBS>
+ <STDV_OBS>  0.152381673     </STDV_OBS>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   6.50786757E-02 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.142325789     </BIAS>
+ <RMSE>  0.713146031     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         498 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.154568687     </BIAS>
+ <RMSE>  0.644471169     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.391588062     </MEAN_OBS>
+ <STDV_OBS>  0.406454265     </STDV_OBS>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>         107 </NUM>
+ <MEAN>  0.306237996     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>  0.257247269     </BIAS>
+ <RMSE>  0.817574024     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>         107 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.241690069     </BIAS>
+ <RMSE>  0.824190855     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.36390058E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>   9.00782552E-03 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   1.34228310E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.33840488E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.24501146E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   1.04460532E-05 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   2.60093482E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.11661718E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   9.40891186E-06 </STDV_OBS>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   4.05554783E-06 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   7.61083083E-06 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.87080660E-06 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.92745611E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   9.08888069E-06 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   3.64977786E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.81722298E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   4.53866141E-06 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.03457726E-03 </STDV_OBS>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   8.89845425E-04 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   8.97667487E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.75408824E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.25661143E-04 </STDV_OBS>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   8.45541581E-05 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   2.96446033E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18474454E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.29101567E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   1.15333305E-05 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   2.68687927E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.10279975E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.69679981E-05 </STDV_OBS>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   2.35015796E-05 </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   2.24461437E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.42818528E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>cy43_new</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   981.807617     </STDV>
+ <BIAS>   3.51723720E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   981.703125     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>cy43_new_dfi</NAME>
+ <NUM>           9 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
